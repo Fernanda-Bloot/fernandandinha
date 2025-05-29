@@ -1,0 +1,55 @@
+</style>
+</head>
+<body>
+  <header>
+    <h1>Conexão Campo & Cidade</h1>
+    <p>Construindo pontes entre o rural e o urbano</p>
+  </header>
+
+  <nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#alimentacao">Alimentação</a>
+    <a href="#turismo">Turismo</a>
+    <a href="#tecnologia">Tecnologia</a>
+    <a href="#educacao">Educação</a>
+    <a href="#contato">Contato</a>
+  </nav>
+
+  <section id="sobre">
+    <h2>Sobre</h2>
+    <div class="highlight">
+      <p>Nosso objetivo é conectar os mundos rural e urbano por meio de ações sustentáveis, educativas e culturais que valorizem a produção local e o bem-estar coletivo.</p>
+    </div>
+  </section>
+
+  <section id="alimentacao">
+    <h2>Alimentação e Agricultura</h2>
+    <p>Saiba como os produtos do campo chegam até a sua mesa e conheça feiras locais, produtores orgânicos e sistemas de cooperativas.</p>
+  </section>
+
+  <section id="turismo">
+    <h2>Turismo Rural</h2>
+    <p>Desc ubra experiências no campo, como passeios em fazendas, ecoturismo e roteiros gastronômicos.</p>
+  </section>
+
+  <section id="tecnologia">
+    <h2>Tecnologia e Inovação</h2>
+    <p>Explore soluções inovadoras que aproximam o campo da cidade, como apps agrícolas e agricultura de precisão.</p>
+  </section>
+
+  <section id="educacao">
+    <h2>Educação e Cultura</h2>
+    <p>Projetos que unem escolas urbanas e rurais, promovendo troca de saberes e valorização cultural.</p>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>Entre em contato conosco para parcerias, sugestões ou dúvidas.</p>
+    <p>Email: contato@conexaocampoecidade.org</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Conexão Campo & Cidade. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
